@@ -11,16 +11,6 @@
 
 Bem-vindo ao Documento de Visão para o projeto Veri Docinhos. Este documento fornece uma visão abrangente do projeto, incluindo suas especificações, requisitos e cronograma.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
 ## Introdução
 
 Nosso projeto de Software de gestão de confeitaria tem como objetivo promover uma maior facilidade e agilidade para seus sócios, tendo como prioridade um serviço altamente personalizado e flexível, tendo maior acesso a produtos e uma experiência humanizada, focando em otimização da página e otimização de tempo. O software deve facilitar a forma em que seus clientes compram online e também agilizar a forma que o sócio utiliza o software. Nossa visão é proporcionar uma solução completa e integrada para confeitarias, que não só simplifica as operações diárias, mas também eleva a experiência do cliente a um novo patamar. Acreditamos que cada interação com nosso software deve refletir o cuidado e a atenção aos detalhes que são características fundamentais das melhores confeitarias.
@@ -29,34 +19,53 @@ Nosso projeto de Software de gestão de confeitaria tem como objetivo promover u
 
 O objetivo deste documento é fornecer uma visão geral sobre o Software de gestão da confeitaria Veri Docinhos. A finalidade deste projeto é oferecer agilidade e facilidade para gerenciar as fontes de receita e os principais recursos, promovendo a visualização de produtos junto com a compra e cálculo de frete. Nossos principais Stakeholders são: Laíz Eduarda Schneider, Gabriel Lopes Da Silva e Veridiany Dos Santos Lopes. Nossos desenvolvedores são: Deivis Gabriel De Almeida, Eduardo José Zang, Fernanda Batistel De Oliveira, Luis Alexandre Tavares Cordeiro e Miguel Arthur Schneider. Nossos principais clientes são: Consumidores de doces e salgados, além de eventos regionais e anuais.
 
-### Premium Partners
+### Escopo
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+Este projeto visa desenvolver um software para o gerenciamento de compras, vendas e divulgação de produtos no segmento da confeitaria, que terá como finalidade garantir agilidade e praticidade na venda bem como na divulgação dos produtos.
 
-## Contributing
+O sistema se destina aos Sócios/Proprietários do Negócio e ao segmento de consumidores do ramo. Os clientes podem realizar compras e avaliações, os colaboradores podem realizar posts de divulgação e os proprietários podem efetuar todas as operações mencionadas, além de gerir relatório de vendas, editar produtos e gerar notas fiscais.
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+## Público-alvo
 
-## Code of Conduct
+Este documento destina-se a clientes interessados em comprar doces e salgados de forma online, em empresas e pessoas físicas interessadas em encomendar doces e salgados, funcionários da empresa, desenvolvedores que criaram o site e gerentes que administram a confeitaria.
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
-## Security Vulnerabilities
+## Definições, Acrônimos e Abreviações
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+- Insumos: Materiais ou ingredientes utilizados na produção dos doces e salgados.
 
-## License
+- Doces: Produtos açucarados, como bolos, tortas, brigadeiros, e outros.
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+- Salgados: Produtos salgados, como coxinhas, empadas, esfihas, e outros.
+
+- Stakeholders: Partes interessadas no projeto, como sócios, clientes, e desenvolvedores.
+
+- Clientes: Consumidores que compram os produtos da confeitaria, tanto pessoas físicas quanto para eventos.
+
+- RF: Requisitos Funcionais.
+
+- RNF: Requisitos Não Funcionais.
+
+- Proprietário: Usuário administrador do sistema, responsável pela gestão da confeitaria.
+
+- Colaborador: Funcionário que realiza postagens e auxilia na gestão do sistema.
+
+- Cliente: Usuário que realiza compras e avaliações no sistema.
+
+- Frete: Custo de transporte dos produtos comprados pelos clientes.
+
+- Relatório de Vendas: Documento gerado pelo sistema que apresenta dados sobre as vendas realizadas.
+
+- Nota Fiscal: Documento fiscal gerado pelo sistema para registro das vendas.
+
+- Cardápio: Lista de produtos oferecidos pela confeitaria, disponível no sistema para visualização e seleção dos clientes.
+
+- Software de Gestão: Sistema utilizado para administrar as operações da confeitaria, incluindo vendas, estoque, e relatórios.
+
+- Canvas: Ferramenta utilizada para descrever e planejar a visão geral do projeto, incluindo modelo de negócios e processos.
+
+- Documento de Classes: Descrição das classes do sistema, representando a estrutura e comportamento dos objetos no software.
+
+- Documento de Caso de Uso: Descrição das interações entre os usuários e o sistema, detalhando as funcionalidades e operações realizadas.
+
+
