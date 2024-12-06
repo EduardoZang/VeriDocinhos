@@ -75,7 +75,7 @@ O site será projetado para oferecer aos clientes uma experiência digital intui
 ## Visão Geral do Projeto
 O projeto visa gerar praticidade e agilidade na forma de gerir a empresa por meio de seus proprietários, enquanto também visa gerar facilidade para seus clientes realizarem pedidos de forma online, beneficiando funcionários, gerentes e clientes. O site serve para realizar compras e encomendas online, criar posts gerando engajamento entre os clientes.
 
-<iframe src="https://drive.google.com/file/d/1o8spwaMIvex7NvTuGTjmM4uyGHegPLyC/preview" width="640" height="480" allow="autoplay"></iframe>
+<a> <img src="https://drive.google.com/file/d/1o8spwaMIvex7NvTuGTjmM4uyGHegPLyC/preview" width="640" height="480" allow="autoplay"></a>
 
 
 
