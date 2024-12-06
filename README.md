@@ -72,5 +72,11 @@ Este documento destina-se a clientes interessados em comprar doces e salgados de
 O site será projetado para oferecer aos clientes uma experiência digital intuitiva e informativa, facilitando o acesso aos produtos da padaria, informações sobre localização e horário de funcionamento. Buscamos criar uma plataforma que promova a marca da padaria, aumente a visibilidade online e melhore a conveniência para nossos clientes
 
 
+## Visão Geral do Projeto
+O projeto visa gerar praticidade e agilidade na forma de gerir a empresa por meio de seus proprietários, enquanto também visa gerar facilidade para seus clientes realizarem pedidos de forma online, beneficiando funcionários, gerentes e clientes. O site serve para realizar compras e encomendas online, criar posts gerando engajamento entre os clientes.
+
+<iframe src="https://drive.google.com/file/d/1o8spwaMIvex7NvTuGTjmM4uyGHegPLyC/preview" width="640" height="480" allow="autoplay"></iframe>
+
+
 
 
