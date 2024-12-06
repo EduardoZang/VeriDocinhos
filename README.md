@@ -7,9 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## Documento de Visão - Veri Docinhos
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Bem-vindo ao Documento de Visão para o projeto Veri Docinhos. Este documento fornece uma visão abrangente do projeto, incluindo suas especificações, requisitos e cronograma.
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
@@ -21,17 +21,13 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
+## Introdução
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Nosso projeto de Software de gestão de confeitaria tem como objetivo promover uma maior facilidade e agilidade para seus sócios, tendo como prioridade um serviço altamente personalizado e flexível, tendo maior acesso a produtos e uma experiência humanizada, focando em otimização da página e otimização de tempo. O software deve facilitar a forma em que seus clientes compram online e também agilizar a forma que o sócio utiliza o software. Nossa visão é proporcionar uma solução completa e integrada para confeitarias, que não só simplifica as operações diárias, mas também eleva a experiência do cliente a um novo patamar. Acreditamos que cada interação com nosso software deve refletir o cuidado e a atenção aos detalhes que são características fundamentais das melhores confeitarias.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+## Objetivo
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+O objetivo deste documento é fornecer uma visão geral sobre o Software de gestão da confeitaria Veri Docinhos. A finalidade deste projeto é oferecer agilidade e facilidade para gerenciar as fontes de receita e os principais recursos, promovendo a visualização de produtos junto com a compra e cálculo de frete. Nossos principais Stakeholders são: Laíz Eduarda Schneider, Gabriel Lopes Da Silva e Veridiany Dos Santos Lopes. Nossos desenvolvedores são: Deivis Gabriel De Almeida, Eduardo José Zang, Fernanda Batistel De Oliveira, Luis Alexandre Tavares Cordeiro e Miguel Arthur Schneider. Nossos principais clientes são: Consumidores de doces e salgados, além de eventos regionais e anuais.
 
 ### Premium Partners
 
