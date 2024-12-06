@@ -1,8 +1,7 @@
-## Logo
+## Documento de Visão - Veri Docinhos
+
 ![image](https://github.com/user-attachments/assets/8ce904af-c185-4bcc-9b37-68f54272da27)
 
-
-## Documento de Visão - Veri Docinhos
 
 Bem-vindo ao Documento de Visão para o projeto Veri Docinhos. Este documento fornece uma visão abrangente do projeto, incluindo suas especificações, requisitos e cronograma.
 
