@@ -1,3 +1,4 @@
+Logo
 ![image](https://github.com/user-attachments/assets/8ce904af-c185-4bcc-9b37-68f54272da27)
 
 
@@ -13,7 +14,7 @@ Nosso projeto de Software de gestão de confeitaria tem como objetivo promover u
 
 O objetivo deste documento é fornecer uma visão geral sobre o Software de gestão da confeitaria Veri Docinhos. A finalidade deste projeto é oferecer agilidade e facilidade para gerenciar as fontes de receita e os principais recursos, promovendo a visualização de produtos junto com a compra e cálculo de frete. Nossos principais Stakeholders são: Laíz Eduarda Schneider, Gabriel Lopes Da Silva e Veridiany Dos Santos Lopes. Nossos desenvolvedores são: Deivis Gabriel De Almeida, Eduardo José Zang, Fernanda Batistel De Oliveira, Luis Alexandre Tavares Cordeiro e Miguel Arthur Schneider. Nossos principais clientes são: Consumidores de doces e salgados, além de eventos regionais e anuais.
 
-### Escopo
+## Escopo
 
 Este projeto visa desenvolver um software para o gerenciamento de compras, vendas e divulgação de produtos no segmento da confeitaria, que terá como finalidade garantir agilidade e praticidade na venda bem como na divulgação dos produtos.
 
@@ -110,4 +111,4 @@ Contato
 
 ## Considerações Finais
 
-Este documento de visão fornece uma visão geral do projeto Veri Docinhos. Ele descreve a finalidade, os principais stakeholders, os requisitos principais, os diagramas de caso de uso e diagrama de classes. Este documento servirá como base para o desenvolvimento do projeto, auxiliando na compreensão e alinhamento das partes interessadas.
+Este documento de visão fornece uma visão geral do projeto Veri Docinhos. Ele descreve a finalidade, os requisitos principais, os diagramas de caso de uso e diagrama de classes. Esta descrição serve para auxiliar na compreensão e alinhamento das partes interessadas e informatização/divulgação do projeto.
