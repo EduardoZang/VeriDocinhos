@@ -25,11 +25,6 @@ Este projeto visa desenvolver um software para o gerenciamento de compras, venda
 
 O sistema se destina aos Sócios/Proprietários do Negócio e ao segmento de consumidores do ramo. Os clientes podem realizar compras e avaliações, os colaboradores podem realizar posts de divulgação e os proprietários podem efetuar todas as operações mencionadas, além de gerir relatório de vendas, editar produtos e gerar notas fiscais.
 
-## Público-alvo
-
-Este documento destina-se a clientes interessados em comprar doces e salgados de forma online, em empresas e pessoas físicas interessadas em encomendar doces e salgados, funcionários da empresa, desenvolvedores que criaram o site e gerentes que administram a confeitaria.
-
-
 ## Definições, Acrônimos e Abreviações
 
 - Insumos: Materiais ou ingredientes utilizados na produção dos doces e salgados.
@@ -67,5 +62,15 @@ Este documento destina-se a clientes interessados em comprar doces e salgados de
 - Documento de Classes: Descrição das classes do sistema, representando a estrutura e comportamento dos objetos no software.
 
 - Documento de Caso de Uso: Descrição das interações entre os usuários e o sistema, detalhando as funcionalidades e operações realizadas.
+
+## Público-alvo
+
+Este documento destina-se a clientes interessados em comprar doces e salgados de forma online, em empresas e pessoas físicas interessadas em encomendar doces e salgados, funcionários da empresa, desenvolvedores que criaram o site e gerentes que administram a confeitaria.
+
+
+## Descrição do Projeto 
+O site será projetado para oferecer aos clientes uma experiência digital intuitiva e informativa, facilitando o acesso aos produtos da padaria, informações sobre localização e horário de funcionamento. Buscamos criar uma plataforma que promova a marca da padaria, aumente a visibilidade online e melhore a conveniência para nossos clientes
+
+
 
 
