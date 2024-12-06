@@ -69,16 +69,58 @@ Este documento destina-se a clientes interessados em comprar doces e salgados de
 
 
 ## Descrição do Projeto 
+
 O site será projetado para oferecer aos clientes uma experiência digital intuitiva e informativa, facilitando o acesso aos produtos da padaria, informações sobre localização e horário de funcionamento. Buscamos criar uma plataforma que promova a marca da padaria, aumente a visibilidade online e melhore a conveniência para nossos clientes
 
 
 ## Visão Geral do Projeto
+
 O projeto visa gerar praticidade e agilidade na forma de gerir a empresa por meio de seus proprietários, enquanto também visa gerar facilidade para seus clientes realizarem pedidos de forma online, beneficiando funcionários, gerentes e clientes. O site serve para realizar compras e encomendas online, criar posts gerando engajamento entre os clientes.
 
 ![image](https://github.com/user-attachments/assets/18249026-9d6c-4bdb-bc56-1bfbe552830a)
 
 
-<a> <img src="https://drive.google.com/file/d/1o8spwaMIvex7NvTuGTjmM4uyGHegPLyC/preview" width="640" height="480" allow="autoplay"></a>
+## Principais Recursos e Funcionalidades
+
+Pedidos: O sistema permitirá que o cliente realize os pedidos, e o enviará ao proprietário para a fabricação.
+Publicações: O sistema permitirá que o proprietário e o colaborador realizem postagens a respeito da confeitaria.
+Relatório de Vendas: O sistema irá emitir relatório de vendas da confeitaria.
+Frete: O sistema deve calcular o valor do frete, adicionando ao valor final do pedido.
+Login: O sistema será acessado a partir do login do cliente e proprietário.
+Cadastro: O cliente irá fazer um cadastro no sistema, assim, terá seu histórico de pedidos e poderá acompanhar seu pedido atual.
+Avaliação do cliente: Ao final do seu pedido, o cliente poderá avaliar o serviço da padaria.
+
+## Diagrama de Caso de Uso
+
+![image](https://github.com/user-attachments/assets/0b5b029c-ab10-4dae-a3bf-651ef2be0fa0)
+
+## Descrição de Caso de Uso
+   Caso de uso Principal: Realizar pedido - Situação 01
+
+1- Ator usuário Cliente: visualiza o cardápio disponibilizado.
+2- Inicia o processo de criação de um pedido.
+3- O usuário Cliente seleciona os produtos desejados.
+4- O sistema calcula o valor total do pedido com base na soma dos produtos + valor do frete.
+5- O sistema notifica o usuário Proprietário/Associado para iniciar a produção do produto.
+6- O sistema permite ao usuário Cliente acompanhar o pedido.
+7- O usuário Cliente realiza o pagamento.
+8- O sistema registra nota fiscal com base nos dados fornecidos pelo usuário Cliente.
+9- O sistema permite ao usuário Cliente realizar a avaliação do pedido.
+
+
+  Caso de uso Principal: Gerar Relatório de Vendas - Situação 02
+
+1- Sistema permite que o usuário Proprietário gere relatórios de vendas.
+2- O sistema permite que o usuário Proprietário selecione o período do relatório.
+3- O sistema calcula as estatísticas e exibe no formato de relatório.
+4- O sistema exibe a quantidade de produtos vendidos, quais foram mais vendidos, suas descrições e a soma total arrecadada.
+5- O sistema permite ao usuário Proprietário exportar o extrato/relatório;
+
+
+## Diagrama de Classes
+
+![image](https://github.com/user-attachments/assets/7a1cbbe9-dc08-4531-bdb9-658b20105b58)
+
 
 
 
