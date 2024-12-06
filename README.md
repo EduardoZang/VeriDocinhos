@@ -69,59 +69,51 @@ Este documento destina-se a clientes interessados em comprar doces e salgados de
 
 
 ## Descrição do Projeto 
-
 O site será projetado para oferecer aos clientes uma experiência digital intuitiva e informativa, facilitando o acesso aos produtos da padaria, informações sobre localização e horário de funcionamento. Buscamos criar uma plataforma que promova a marca da padaria, aumente a visibilidade online e melhore a conveniência para nossos clientes
 
 
 ## Visão Geral do Projeto
-
 O projeto visa gerar praticidade e agilidade na forma de gerir a empresa por meio de seus proprietários, enquanto também visa gerar facilidade para seus clientes realizarem pedidos de forma online, beneficiando funcionários, gerentes e clientes. O site serve para realizar compras e encomendas online, criar posts gerando engajamento entre os clientes.
 
 ![image](https://github.com/user-attachments/assets/18249026-9d6c-4bdb-bc56-1bfbe552830a)
 
+## Protótipo de telas
 
-## Principais Recursos e Funcionalidades
+Home
 
-Pedidos: O sistema permitirá que o cliente realize os pedidos, e o enviará ao proprietário para a fabricação.
-Publicações: O sistema permitirá que o proprietário e o colaborador realizem postagens a respeito da confeitaria.
-Relatório de Vendas: O sistema irá emitir relatório de vendas da confeitaria.
-Frete: O sistema deve calcular o valor do frete, adicionando ao valor final do pedido.
-Login: O sistema será acessado a partir do login do cliente e proprietário.
-Cadastro: O cliente irá fazer um cadastro no sistema, assim, terá seu histórico de pedidos e poderá acompanhar seu pedido atual.
-Avaliação do cliente: Ao final do seu pedido, o cliente poderá avaliar o serviço da padaria.
+![image](https://github.com/user-attachments/assets/d2608d9c-8150-44d1-b3ee-01bb0ba497f4)
 
-## Diagrama de Caso de Uso
+Cardápio
 
-![image](https://github.com/user-attachments/assets/0b5b029c-ab10-4dae-a3bf-651ef2be0fa0)
+![image](https://github.com/user-attachments/assets/8461aec7-ef20-4768-809d-0d2c2320664c)
 
-## Descrição de Caso de Uso
-   Caso de uso Principal: Realizar pedido - Situação 01
+Editar produto
 
-1- Ator usuário Cliente: visualiza o cardápio disponibilizado.
-2- Inicia o processo de criação de um pedido.
-3- O usuário Cliente seleciona os produtos desejados.
-4- O sistema calcula o valor total do pedido com base na soma dos produtos + valor do frete.
-5- O sistema notifica o usuário Proprietário/Associado para iniciar a produção do produto.
-6- O sistema permite ao usuário Cliente acompanhar o pedido.
-7- O usuário Cliente realiza o pagamento.
-8- O sistema registra nota fiscal com base nos dados fornecidos pelo usuário Cliente.
-9- O sistema permite ao usuário Cliente realizar a avaliação do pedido.
+![image](https://github.com/user-attachments/assets/3649fb7f-4ae5-4ab4-845f-8ccd08313e8b)
+
+Adicionar Produto
+
+![image](https://github.com/user-attachments/assets/14cf86d0-58be-48e8-8dd9-e3dfee18f3f6)
+
+Pedido/carrinho
+
+![image](https://github.com/user-attachments/assets/942ba0e4-9f5d-4057-a961-28f6ed097332)
+
+Contato
+
+![image](https://github.com/user-attachments/assets/ad5623f4-4706-4895-82f9-6a90f8e592a4)
 
 
-  Caso de uso Principal: Gerar Relatório de Vendas - Situação 02
+## Cronograma e Entrega
 
-1- Sistema permite que o usuário Proprietário gere relatórios de vendas.
-2- O sistema permite que o usuário Proprietário selecione o período do relatório.
-3- O sistema calcula as estatísticas e exibe no formato de relatório.
-4- O sistema exibe a quantidade de produtos vendidos, quais foram mais vendidos, suas descrições e a soma total arrecadada.
-5- O sistema permite ao usuário Proprietário exportar o extrato/relatório;
+![image](https://github.com/user-attachments/assets/59365632-452a-4ee6-88cc-7e8d3d7bc0f4)
 
 
-## Diagrama de Classes
+## Riscos e Mitigação
 
-![image](https://github.com/user-attachments/assets/7a1cbbe9-dc08-4531-bdb9-658b20105b58)
-
-
+![image](https://github.com/user-attachments/assets/1f08843a-ac58-43f1-bf5b-3d2e7136f64d)
 
 
+## Considerações Finais
 
+Este documento de visão fornece uma visão geral do projeto Veri Docinhos. Ele descreve a finalidade, os principais stakeholders, os requisitos principais, os diagramas de caso de uso e diagrama de classes. Este documento servirá como base para o desenvolvimento do projeto, auxiliando na compreensão e alinhamento das partes interessadas.
