@@ -15,6 +15,7 @@ class Produto extends Model
         'preco_produto',
         'categoria_produto',
         'imagem_produto',
+        'status',   //Questão 04
     ];
 
     public function pedidos()
@@ -22,3 +23,4 @@ class Produto extends Model
         return $this->belongsToMany(Pedido::class, 'pedido_produto')->withPivot('quantidade', 'preco_unitario');
     }
 }
+

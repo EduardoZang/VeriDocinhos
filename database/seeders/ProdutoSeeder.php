@@ -15,6 +15,7 @@ class ProdutoSeeder extends Seeder
             'preco_produto' => 4500.00,
             'categoria_produto' => 'Bolos',
             'imagem_produto' => null,
+            'status'=> true,
         ]);
     }
 }
